@@ -5,9 +5,9 @@ package br.pucminas.aed.listasequenciais;
 import java.util.Scanner;
 
 public class Ex005 {
+	static Scanner sc = new Scanner(System.in);
     
     static void ex005(){
-        Scanner sc = new Scanner(System.in);
         int num, option;
         int[] number = new int[3];
         char[] letter = new char[3];

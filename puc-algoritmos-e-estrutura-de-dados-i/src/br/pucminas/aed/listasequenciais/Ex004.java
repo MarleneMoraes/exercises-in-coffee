@@ -3,8 +3,9 @@ package br.pucminas.aed.listasequenciais;
 import java.util.Scanner;
 
 public class Ex004 {
-    static void ex004(){
-        Scanner sc = new Scanner(System.in);
+	static Scanner sc = new Scanner(System.in);
+	
+    static void ex004(){    
         int num;
         int[] number = new int[4];
         int[] peso = new int[3];
