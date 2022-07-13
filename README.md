@@ -12,7 +12,7 @@ Os demais, são exercícios que tive durante cursos, *bootcamps* e questionário
 Assim, este repositório apresentará:
 
 - [x] Algoritmos [40 horas] (Curso em Video - 2021 [adaptada para Java])
-- [ ] Algoritmos e Estrutura de Dados (PUC - 2021 [adaptada para Java])
+- [x] Algoritmos e Estrutura de Dados (PUC - 2021 [adaptada para Java])
 - [x] Desafios em *Bootcamps* (DIO)
 - [x] Introdução ao Teste de Software (USP - 2021)
 - [x] Programa de Formação Java (Sabium Sistemas - 2021)
